@@ -33,3 +33,6 @@ elif userName == "ntanphat3" and passWord == "12345":
   print("Wish you have a happy year <3")
 else:
   print("Wrong Username or Password!")
+
+# and is a Logical AND that returns True if both the operands are true whereas ‘&’ is a bitwise operator in Python that acts on bits and performs bit-by-bit operations.
+# Note: When an integer value is 0, it is considered as False otherwise True when used logically.
