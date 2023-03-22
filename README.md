@@ -8,5 +8,5 @@ Day 6: Make a basic username and password => Log in</br>
 
 # "And" vs "&"
 
-- <code style="color : magenta">"And"</code>return True if both the operands are True. If 1st operand is false => it returns false (lazy evaluation).</br>
-- <code style="color : magenta">"&"</code> is a bitwise operator in Python that acts on bits and performs bit-by-bit operations.</br>
+- $${\color{red}"And" \space return True if both the operands are True. If 1st operand is false => it returns false (lazy evaluation).$$</br>
+- $${\color{red}"$" \space is a bitwise operator in Python that acts on bits and performs bit-by-bit operations.$$</br>
