@@ -12,3 +12,4 @@ Day 6: Make a basic username and password => Log in</br>
 - <code style="color : magenta">"&"</code> is a bitwise operator in Python that acts on bits and performs bit-by-bit operations.</br>
 
 Day 7: Nesting if statement </br>
+Day 8: Make an affirmation Generator </br>
