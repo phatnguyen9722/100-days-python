@@ -13,3 +13,4 @@ Day 6: Make a basic username and password => Log in</br>
 
 Day 7: Nesting if statement </br>
 Day 8: Make an affirmation Generator </br>
+Day 9: Make a Generation Generator using int, float and symbol operator </br>
