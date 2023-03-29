@@ -17,3 +17,4 @@ Day 9: Make a Generation Generator using int, float and symbol operator </br>
 Day 10: Make simple calculator through bill divider </br>
 Day 11: Make a transfer to second-of-year app </br> 
 Day 12: Debug </br>
+Day 13: Grade Generator </br>
