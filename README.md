@@ -24,3 +24,4 @@ Day 16: while True Loop </br>
 Day 17: RPS Games with while loop </brs>
 Day 18: Guest the number </br>
 Day 19: Loan Calculator </br>
+Day 20: Using range </br>
