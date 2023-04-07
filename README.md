@@ -26,3 +26,4 @@ Day 18: Guest the number </br>
 Day 19: Loan Calculator </br>
 Day 20: Using range </br>
 Day 21: Multiple Games </br>
+Day 22: Guest the number with random initial number </br>
