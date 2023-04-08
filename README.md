@@ -27,3 +27,8 @@ Day 19: Loan Calculator </br>
 Day 20: Using range </br>
 Day 21: Multiple Games </br>
 Day 22: Guest the number with random initial number </br>
+Day 23: Login form with Subroutine (def) </br>
+
+### break vs continue 
+- Break: End Loop. </br>
+- Continue: End the current Iteration and continue the next Iteration.</br>
