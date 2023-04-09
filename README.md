@@ -32,3 +32,5 @@ Day 23: Login form with Subroutine (def) </br>
 ### break vs continue 
 - Break: End Loop. </br>
 - Continue: End the current Iteration and continue the next Iteration.</br>
+
+Day 24: Infinite Dice Game </br>
