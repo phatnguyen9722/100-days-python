@@ -34,3 +34,7 @@ Day 23: Login form with Subroutine (def) </br>
 - Continue: End the current Iteration and continue the next Iteration.</br>
 
 Day 24: Infinite Dice Game </br>
+Day 25: Health Generator for Character Game </br>
+Day 26: Music Player </br>
+Day 27: Create Player for Game </br>
+Day 28: Create Auto Battle for 2 Players </br>
