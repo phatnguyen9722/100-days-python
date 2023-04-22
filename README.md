@@ -39,3 +39,11 @@ Day 26: Music Player </br>
 Day 27: Create Player for Game </br>
 Day 28: Create Auto Battle for 2 Players </br>
 Day 29: Create Subroutine for Change text color </br>
+Day 30: Loop App to ask user thought for the past 30 days </br>
+Day 31: App user interface </br>
+Day 32: App Greeting in many languages </br>
+Day 33: Todo List </br>
+Day 34: Spam Email </br>
+Day 35: Upgrade Todo App </br>
+Day 36: String Manipulation </br>
+Day 37: STAR WARS NAME GENERATOR </br>
